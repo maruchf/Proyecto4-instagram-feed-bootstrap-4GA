@@ -1,0 +1,15 @@
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    padding-top: 50px;
+  }
+
+a{
+    text-decoration: none;
+    color:black
+}
+a:hover{
+    color:green;
+}
